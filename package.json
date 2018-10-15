@@ -7,7 +7,6 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "keywords": [
     "boilerplate",
     "conversation",
@@ -18,7 +17,6 @@
   "engines": {
     "node": ">=8.4.0"
   },
-
   "dependencies": {
     "babel-preset-es2015": "^6.13.2",
     "babel-preset-stage-0": "^6.5.0",
